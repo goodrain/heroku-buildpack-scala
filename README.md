@@ -1,7 +1,7 @@
 Heroku Buildpack for Scala [![Build Status](https://travis-ci.org/heroku/heroku-buildpack-scala.svg?branch=master)](https://travis-ci.org/heroku/heroku-buildpack-scala)
 =========================
 
-云帮 Scala 语言项目的源码构建核心部分是基于[Heroku buildpack for Scala](http://devcenter.heroku.com/articles/buildpack) 来实现的。您可以部署基于[play](https://github.com/goodrain/heroku-buildpack-play)框架的web程序。
+云帮 Scala 语言项目的源码构建核心部分是基于[Heroku buildpack for Scala](https://github.com/heroku/heroku-buildpack-scala) 来实现的。您可以部署基于[play](https://github.com/goodrain/heroku-buildpack-play)框架的web程序。
 
 ## 工作原理
 
@@ -20,6 +20,6 @@ Heroku Buildpack for Scala [![Build Status](https://travis-ci.org/heroku/heroku-
 
 ## 授权
 
-根据 MIT 授权证获得许可。 请参阅LICENSE文件
+根据 MIT 授权获得许可。 请参阅LICENSE文件
 
 
